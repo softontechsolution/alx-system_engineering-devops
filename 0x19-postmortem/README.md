@@ -59,4 +59,4 @@ cat /etc/nginx/sites-available/default > /etc/nginx/sites-enabled/default sudo s
 
 This script ensures that the correct configuration is enabled and restarts Nginx to apply the changes.
 
-![Alt text](0x19-postmortem/ngnix2.webp)
+![Alt text](ngnix2.webp?raw=true "NGNIX 2")
