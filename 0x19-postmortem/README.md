@@ -1,5 +1,5 @@
 
-![Alt text](0x19-postmortem/ngnix.webp)
+![Alt text](ngnix.webp?raw=true "NGNIX")
 
 Issue Summary
 
